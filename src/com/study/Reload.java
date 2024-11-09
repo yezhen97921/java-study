@@ -5,6 +5,7 @@ public class Reload {
         double maxValue = max(1, 2);
         System.out.println(maxValue);
 
+        System.out.println("============");
         int maxValue2 = max(10, 20);
         System.out.println(maxValue2);
     }
