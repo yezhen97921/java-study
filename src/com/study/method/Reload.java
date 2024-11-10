@@ -1,4 +1,4 @@
-package com.study;
+package com.study.method;
 
 public class Reload {
     public static void main(String[] args) {
