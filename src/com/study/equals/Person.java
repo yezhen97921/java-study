@@ -15,7 +15,6 @@ public class Person {
         System.out.println(p1.equals(p2));
 
     }
-
     /**
      * @description 重写equals方法
      * @param obj
