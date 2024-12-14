@@ -53,5 +53,7 @@ public class Demo08 {
         for (int i = 0; i < resArr.length; i++) {
             System.out.println(resArr[i][0] + "\t" + resArr[i][1] + "\t" + resArr[i][2] + "\t");
         }
+
+
     }
 }
